@@ -8,5 +8,5 @@
 | Certificate | Issuer | Status |
 |---|---|---|
 | CC | ISC2 | ✅ Completed |
-| Sec+ | Comptia | ⬜ Planned  |
+| Sec+ | CompTIA | ⬜ Planned  |
 | CCNA | Cisco | ⬜ Planned  |
