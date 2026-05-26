@@ -8,8 +8,8 @@
 | Certificate | Issuer | Status |
 |---|---|---|
 | CC | ISC2 | ✅ Completed |
-| Sec+ | CompTIA | ⬜ Planned  |
-| CCNA | Cisco | ⬜ Planned  |
+| Sec+ | CompTIA | ⬜ Planned 2026 |
+| CCNA | Cisco | ⬜ Planned 2026-2027  |
 
 ---
 ## 🛠 Tech Stack
