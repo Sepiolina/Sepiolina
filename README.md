@@ -10,6 +10,8 @@
 | CC | ISC2 | ✅ Completed |
 | Sec+ | CompTIA | ⬜ Planned 2026 |
 | CCNA | Cisco | ⬜ Planned 2026-2027  |
+| CYSA | CompTIA | ⬜ Planned 2026-2027  |
+
 
 ---
 ## 🧰 Tech Stack
