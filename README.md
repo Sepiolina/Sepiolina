@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sepiolina
-- 🔭 I’m currently working on: My blog and Healthcare Website.
+- 🔭 I’m currently working on: My stuff :P
 - 🌱 I’m currently learning: Cybersecurity, SAP, OT Security
 - 🌍 Languages:  🇹🇭 Thai (Native) | 🇬🇧 English 
 ---
